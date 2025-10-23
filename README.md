@@ -13,7 +13,7 @@ I'm passionate about learning modern software maintenance practices and understa
 ---
 
 ## 🖼️ My Profile Image
-![My Image](46d34c5eeb92b8beda10ee73051ec9fd.jpg)  
+![My Image](https://github.com/SoftwareMaintenanceEvolution/tutorial-1-22121845-design/blob/profile-upload/46d34c5eeb92b8beda10ee73051ec9fd.jpg?raw=true)  
 *(A picture that represents me!)*
 
 ---
